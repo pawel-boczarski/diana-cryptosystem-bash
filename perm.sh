@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# A simple function providing random word permutation
 perm()
 {
 	if [ 1 -ne $# ]
